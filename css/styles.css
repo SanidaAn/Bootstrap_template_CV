@@ -11413,6 +11413,34 @@ p.lead {
   font-size: 3rem;
 }
 
+/* change color for icons */
+/* .fa-html5{
+  color: #DD4B25;
+}
+.fa-css3-alt{
+  color:#1579B8;
+}
+.fa-js-square{
+  color:#E9D44D;
+}
+.fa-bootstrap{
+  color:#69419A;
+}
+.fa-elementor{
+  color:#A22863;
+}
+.fa-wordpress{
+  color:#207196;
+}
+.fa-symfony{
+  color:#000000;
+}
+.fa-database{
+  color:#2A75BD;
+} */
+/* END change color for icons */
+
+
 section.resume-section {
   display: flex;
   align-items: center;
@@ -11434,7 +11462,8 @@ section.resume-section .resume-section-content {
 @media (min-width: 768px) {
   section.resume-section {
     /* min-height: 100vh; */
-    min-height: 50vh;
+    /* min-height: 50vh; */
+    /* changed 25 May */
   }
 }
 @media (min-width: 992px) {
